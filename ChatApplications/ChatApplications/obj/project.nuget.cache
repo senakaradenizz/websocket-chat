@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ybsts2xbDcm7oIS9alksrOOb5anf1SgDKgOJF7jnms616YxUx5Xc1aMoo6HLImATW4B9bRgYNB6cK9GRLpkwQ==",
+  "dgSpecHash": "5o/7DRyxG3pACjBFcdLeGjVLSqtEPj1o4r2bAh+NzvUmp87qJ/SZh79jsTSL70Nk9/ip1eRbOAGCKuY3r29phQ==",
   "success": true,
-  "projectFilePath": "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
+  "projectFilePath": "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

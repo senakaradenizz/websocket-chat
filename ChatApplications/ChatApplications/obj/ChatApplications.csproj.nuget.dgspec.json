@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\ChatApplications.csproj": {}
+    "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\ChatApplications.csproj": {}
   },
   "projects": {
-    "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\ChatApplications.csproj": {
+    "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\ChatApplications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
+        "projectUniqueName": "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
         "projectName": "ChatApplications",
-        "projectPath": "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
+        "projectPath": "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\ChatApplications.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositories\\websocket-chat\\ChatApplication\\ChatApplications\\ChatApplications\\obj\\",
+        "outputPath": "C:\\Repositories\\websocket-chat\\ChatApplications\\ChatApplications\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
