@@ -10,7 +10,8 @@
 
     .msg {
         position: absolute;
-        top: 20px;
+        top: 80px;
+        left: 350px;
         bottom: 30px;
         border: 0.5px solid black;
         margin-bottom: auto;
@@ -20,12 +21,27 @@
         height: 50%;
         white-space: nowrap;
     }
+
+    .msg-show {
+        position: absolute;
+        bottom: 10px;
+        margin-left: 10px;
+    }
+
+    .msg-field {
+        position: absolute;
+        height: 30px;
+        left: 350px;
+        top: 420px;
+        display: block;
+        width: 50%
+    }
 </style>
 <div class="msg">
-    <div style="position:absolute; bottom: 10px; margin-left: 10px;" id="msgs"></div>
+    <div class="msg-show" id="msgs"></div>
 </div>
 
-<div style="position:absolute;height:30px;bottom:430px; display:block;width:50%">
+<div class="msg-field">
     <input type="text" style="max-width: unset; width: 100%; max-width: 100%; bottom: 10px;" id="MessageField" placeholder="type message and press enter" />
 </div>
 
