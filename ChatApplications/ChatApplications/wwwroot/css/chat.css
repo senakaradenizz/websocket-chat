@@ -1,0 +1,33 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.msg {
+    position: absolute;
+    top: 80px;
+    left: 350px;
+    bottom: 30px;
+    border: 0.5px solid black;
+    margin-bottom: auto;
+    display: block;
+    overflow: scroll;
+    width: 50%;
+    height: 50%;
+    white-space: nowrap;
+}
+
+.msg-show {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 10px;
+}
+
+.msg-field {
+    position: absolute;
+    height: 30px;
+    left: 350px;
+    top: 420px;
+    display: block;
+    width: 50%
+}
